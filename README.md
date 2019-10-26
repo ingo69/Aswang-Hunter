@@ -6,4 +6,4 @@ an animated virtual sword  you use to kill zombies <br>
 background music <br>
 
 ![](ScreenShot.jpeg)
-AR Zombie HunterVideo Game 
+AR Zombie Witch HunterVideo Game 
