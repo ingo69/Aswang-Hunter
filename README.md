@@ -1,7 +1,6 @@
 
 
 <img src="ScreenShot.jpeg" alt="drawing" width="300"/>
-# AR Zombie Witch HunterVideo Game 
 
 # Aswang Hunter
 An Augmented Reality Zombie Hunting Game with 4 different levels.It includes:<br>
