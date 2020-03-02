@@ -5,5 +5,6 @@ a round timer <br>
 an animated virtual sword  you use to kill zombies <br>
 background music <br>
 
-![](ScreenShot.jpeg)
+<img src="ScreenShot.jpeg" alt="drawing" width="300"/>
+
 AR Zombie Witch HunterVideo Game 
