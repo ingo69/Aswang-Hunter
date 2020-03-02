@@ -16,5 +16,5 @@ background music <br>
 - AVAudioKit
 - AutoLayout
 - MVC
-= Design / UI
+- Design / UI
 
